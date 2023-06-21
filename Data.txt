@@ -6,7 +6,6 @@ JVM RAM
 Harddisk
 App URL flow SSL - http/https
 
-
 client
 
 encryption - converting plain text to cipher text
