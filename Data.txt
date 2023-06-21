@@ -1,0 +1,15 @@
+App Server
+Web Server
+JDK
+JRE
+JVM RAM
+Harddisk
+App URL flow SSL - http/https
+
+
+client
+
+encryption - converting plain text to cipher text
+decryption  - converting cypher text to plain text
+plain text 
+cypher text

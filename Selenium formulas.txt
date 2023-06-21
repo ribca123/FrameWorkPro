@@ -1,0 +1,28 @@
+//the-internet.herokuapp.com/
+
+
+Css Selector-
+
+Class name -> tagname.classname ->  Button.signInBtn -> 
+		 
+
+Id -> tagname#id      ->   input#inputUsername
+
+Tagname[attribute=’value’]   input[type = 'text']
+Parenttagname childtagname
+input[type*='pass'] – CSS
+
+
+Xpath –  
+
+<input type="text"  maxlength="20" size="25" value=""">
+
+//Tagname[@attribute=’value’]
+
+	EX : //input[@ class=' loginRequired']
+
+(//Tagname[@attribute=’value’])[index]
+	
+//Tagname[contains(@attribute,'value')]      
+
+Ex :   //button[contains(@class,'submit')].  –
