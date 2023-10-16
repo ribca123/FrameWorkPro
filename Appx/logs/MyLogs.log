@@ -1,0 +1,81 @@
+[DEBUG] 2023-10-11 15:21:04.269 [main] LandingPageTest - browser is open
+[INFO ] 2023-10-11 15:21:04.373 [main] liseners - Starting the test ... ProductSelection2
+[ERROR] 2023-10-11 15:21:06.525 [main] liseners - Test Completed
+[DEBUG] 2023-10-11 15:26:51.029 [main] LandingPageTest - browser is open
+[DEBUG] 2023-10-11 15:30:53.556 [main] LandingPageTest - browser is open
+[DEBUG] 2023-10-11 15:32:32.674 [main] LandingPageTest - browser is open
+[INFO ] 2023-10-11 15:32:32.760 [main] liseners - Starting the test ... ProductSelection2
+[ERROR] 2023-10-11 15:32:34.823 [main] liseners - Test Completed
+[DEBUG] 2023-10-11 15:38:11.311 [main] LandingPageTest - browser is open
+[DEBUG] 2023-10-11 15:39:41.174 [main] LandingPageTest - browser is open
+[DEBUG] 2023-10-11 15:49:30.073 [main] LandingPageTest - browser is open
+[DEBUG] 2023-10-11 15:50:54.923 [main] LandingPageTest - browser is open
+[DEBUG] 2023-10-11 15:54:54.439 [main] LandingPageTest - browser is open
+[DEBUG] 2023-10-11 16:03:30.281 [main] LandingPageTest - browser is open
+[DEBUG] 2023-10-11 16:11:19.526 [main] LandingPageTest - browser is open
+[DEBUG] 2023-10-11 16:18:01.462 [main] LandingPageTest - browser is open
+[INFO ] 2023-10-12 11:10:59.674 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 11:10:59.835 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 12:42:08.040 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 12:42:08.316 [main] liseners - Starting the test ... ProductSelection
+[INFO ] 2023-10-12 12:42:08.317 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 12:42:25.458 [main] liseners - this testcase is fail :ProductSelection
+[ERROR] 2023-10-12 12:42:27.600 [main] liseners - Test Completed
+[INFO ] 2023-10-12 12:43:16.794 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 12:43:17.012 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 12:47:20.533 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 12:47:20.702 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 12:53:22.595 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 12:53:22.803 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 12:55:29.208 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 12:55:29.385 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 16:24:08.581 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 16:24:08.720 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 16:34:52.562 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 16:36:28.697 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 20:46:12.701 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 20:46:12.920 [main] liseners - Starting the test ... ProductSelection
+[INFO ] 2023-10-12 20:46:12.921 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 20:46:31.044 [main] liseners - this testcase is fail :ProductSelection
+[ERROR] 2023-10-12 20:46:33.271 [main] liseners - Test Completed
+[INFO ] 2023-10-12 20:47:21.906 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 20:47:22.180 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 20:49:33.499 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 20:49:33.858 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 20:50:26.813 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 20:50:26.995 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 20:52:06.667 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 20:52:06.952 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 20:54:15.894 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 20:54:16.025 [main] liseners - Starting the test ... ProductSelection
+[INFO ] 2023-10-12 20:54:16.027 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 20:54:33.536 [main] liseners - this testcase is fail :ProductSelection
+[ERROR] 2023-10-12 20:54:35.940 [main] liseners - Test Completed
+[INFO ] 2023-10-12 20:58:18.940 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 20:58:19.139 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 20:59:53.601 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 20:59:53.892 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-12 21:01:47.453 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-12 21:01:47.579 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-13 10:25:54.610 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-13 10:25:54.784 [main] liseners - Starting the test ... ProductSelection
+[INFO ] 2023-10-13 10:25:54.785 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-13 10:26:07.837 [main] liseners - this testcase is fail :ProductSelection
+[ERROR] 2023-10-13 10:26:09.496 [main] liseners - Test Completed
+[INFO ] 2023-10-13 10:50:54.515 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-13 10:50:54.584 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-13 14:54:40.925 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-13 14:54:41.058 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-13 14:55:23.442 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-13 14:55:23.618 [main] liseners - Starting the test ... ProductSelection
+[INFO ] 2023-10-13 14:55:23.619 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-13 14:55:23.900 [main] liseners - this testcase is fail :ProductSelection
+[ERROR] 2023-10-13 14:55:26.474 [main] liseners - Test Completed
+[INFO ] 2023-10-15 20:59:04.064 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-15 20:59:04.288 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-15 21:00:32.683 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-15 21:00:32.944 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[INFO ] 2023-10-15 21:03:06.975 [main] homeModuleTest - browser is open
+[INFO ] 2023-10-15 21:03:07.409 [main] liseners - Starting the test ... ProductSelection
+[INFO ] 2023-10-15 21:03:07.410 [main] homeModuleTest - Strating the E-commerce scenarion test.
+[ERROR] 2023-10-15 21:04:21.384 [main] liseners - Test Completed

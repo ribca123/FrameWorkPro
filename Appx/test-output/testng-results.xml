@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-15T21:02:53 IST" name="Suite" finished-at="2023-10-15T21:04:21 IST" duration-ms="88081">
+    <groups>
+    </groups>
+    <test started-at="2023-10-15T21:02:53 IST" name="Test" finished-at="2023-10-15T21:04:21 IST" duration-ms="88081">
+      <class name="base.homeModuleTest">
+        <test-method is-config="true" signature="browser()[pri:0, instance:base.homeModuleTest@66f659e6]" started-at="2023-10-15T21:02:53 IST" name="browser" finished-at="2023-10-15T21:03:06 IST" duration-ms="13752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="ProductSelection()[pri:0, instance:base.homeModuleTest@66f659e6]" started-at="2023-10-15T21:03:07 IST" name="ProductSelection" finished-at="2023-10-15T21:04:18 IST" duration-ms="71639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductSelection -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:base.homeModuleTest@66f659e6]" started-at="2023-10-15T21:04:19 IST" name="tearDown" finished-at="2023-10-15T21:04:21 IST" duration-ms="2244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- base.homeModuleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
